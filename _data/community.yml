@@ -13,3 +13,7 @@ list:
   - name: devRomagna
     image: devromagna.svg
     site: https://devromagna.org/
+
+  - name: droidcon Italy
+    image: droidcon-italy.svg
+    site: https://it.droidcon.com/2020/
