@@ -57,9 +57,9 @@
     - leonardo-rossi
   title: Laravel Authentication Deep Dive
   extract: >
-    Facciamo un tuffo nel sistema di autenticazione utenti di Laravel: vedremo come funziona l'autenticazione standard
-    e come creare dei sistemi alternativi utilizzando diversi tipi di database e servizi esterni come Auth0, AWS Cognito,
-    Google Identity Platform etc...
+    Facciamo un tuffo nel sistema di autenticazione utenti di Laravel: vedremo nel dettaglio cosa sono le Guard e gli
+    UserProvider, analizzeremo sessioni e token e useremo queste informazioni per creare il nostro sistema di
+    autenticazione
 -
   speaker_id:
     - riccardo-scasseddu
